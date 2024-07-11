@@ -14,9 +14,9 @@ El reto consiste en crear una App para realizar la conversión de distintas mone
 
 ## Códigos de conversión:
 
-ARS - Peso argentino
-BOB - Peso boliviano
-BRL - Real brasileño
-CLP - Peso chileno
-COP - Peso colombiano
-USD - Dólar estadounidense
+- ARS - Peso argentino
+- BOB - Peso boliviano
+- BRL - Real brasileño
+- CLP - Peso chileno
+- COP - Peso colombiano
+- USD - Dólar estadounidense
