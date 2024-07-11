@@ -1,5 +1,7 @@
 ## Oracle-Alura Challenge: Conversor de monedas
 
+Este es el segundo Oracle-Alura Challenge G6: Conversor de monedas.
+
 El reto consiste en crear una App para realizar la conversión de distintas monedas al realizar solicitudes a una API de tasas de cambio.
 
 ## Funcionalidades del conversor:
